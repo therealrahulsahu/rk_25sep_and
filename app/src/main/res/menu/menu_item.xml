@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Add"
+        android:id="@+id/add"/>
+    <item android:title="Delete"
+        android:id="@+id/del"/>
+    <item android:title="Search"
+        android:id="@+id/sea"/>
+    <item android:title="Login"
+        android:id="@+id/login"/>
+    <item android:title="Signup"
+        android:id="@+id/signup"/>
+</menu>
